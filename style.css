@@ -1,1 +1,54 @@
-/* Add your styling here: */
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#profile {
+    display: flex;
+}
+
+#profile div {
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+}
+
+#profile2 {
+    display: flex;
+}
+
+#profile2 div {
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+}
+
+#profile3 {
+    display: flex;
+}
+
+#profile3 div {
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+}
+
+#profile4 {
+    display: flex;
+}
+
+#profile4 div {
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+}
+
+#profile5 {
+    display: flex;
+}
+
+#profile5 div {
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+}
